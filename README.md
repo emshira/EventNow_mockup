@@ -1,5 +1,5 @@
 # EventNow_mockup
-===========
+
 
 This mock up was designed to become familiar with Flexbox for responsiveness;
 And to contribute to a dev group project
