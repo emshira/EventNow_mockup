@@ -11,7 +11,7 @@ Simple rails app. Collaborated with 3 other team members. The app is mainly focu
 
 ===============
 
-Mockup was Designed with: Ruby, HTML, CSS, and Flexbox
+Mockup was Designed with: HTML, CSS, and Flexbox
 
 ===============
 
